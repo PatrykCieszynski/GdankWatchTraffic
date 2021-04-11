@@ -20,18 +20,12 @@
 ## Technologies
 React version 17.02
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Status
 Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project based on
+* [@React MapGl] (https://github.com/visgl/react-map-gl)
 
 ## Contact
 Created by Patryk Cieszyński
