@@ -25,7 +25,7 @@ Project is: _finished_
 
 ## Inspiration
 Project based on
-* [@React MapGl] (https://github.com/visgl/react-map-gl)
+* [React MapGl](https://github.com/visgl/react-map-gl)
 
 ## Contact
 Created by Patryk Cieszyński
