@@ -14,10 +14,10 @@ React version 17.02
 ## Status
 Project is: _finished_
 
-## Inspiration
-Project based on
+## Project based on
 * [React MapGl](https://github.com/visgl/react-map-gl)
 * [Gdansk Api](https://www.gdansk.pl/otwarte-dane?show=data&id=tristar&s=byGroup&i=transport)
+## Project inspired by
 * [Article i mentioned earlier](https://www.trojmiasto.pl/wiadomosci/Po-naszym-artykule-stworzyl-strone-do-sledzenia-ruchu-tramwajow-n153669.html)
 * [And direct link to app](https://tram-traffic-in-gdansk.netlify.app/)
 ## Contact
