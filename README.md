@@ -3,7 +3,7 @@
 >Updates every 20 second.
 
 ## General info
-Project to pass the class in Advanced Internet Technologies. We were supposed to make an application that uses some external Api. Some time ago i saw article about similiar app, so I decided to do something like it. With localisation data from server i can render a marker for each tram and bus
+Project to pass the class in Advanced Internet Technologies. We were supposed to make an application that uses some external Api. Some time ago i saw article about similiar app, so I decided to do something like it.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.PNG)
